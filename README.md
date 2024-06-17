@@ -5,41 +5,107 @@ Installation and Navigation of Visual Studio Code (VS Code)
  Instructions:
 Answer the following questions based on your understanding of the installation and navigation of Visual Studio Code (VS Code). Provide detailed explanations and examples where appropriate.
 
- Questions:
+Answers:
 
-1. Installation of VS Code:
-   - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
 
-2. First-time Setup:
-   - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
+Names: HAKUZWIMANA Silas
+Email: hakusilas@gmail.com
+Date: On Monday, June 17th,2024
 
-3. User Interface Overview:
-   - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
+SE-Assignment-5 Installation and Navigation of Visual Studio Code (VS Code)
+Installation of VS Code
+Steps to Download and Install Visual Studio Code on Windows 11:
+1.	Prerequisites:
+o	Ensure you have Windows 11.
+o	An internet connection to download the installer.
+2.	Download:
+o	Go to the Visual Studio Code website.
+o	Click on the download button for Windows.
+3.	Install:
+o	Run the downloaded installer.
+o	Accept the license agreement and click "Next."
+o	Select the installation location and additional tasks (e.g., adding to PATH).
+o	Click "Install."
+First-time Setup
+Initial Configurations and Settings:
+1.	Theme and Appearance:
+o	Go to File > Preferences > Color Theme to choose a theme.
+o	Adjust font size in File > Preferences > Settings under Editor: Font Size.
+2.	Extensions:
+o	Essential extensions:
+	Prettier for code formatting.
+	ESLint for JavaScript linting.
+	Python for Python development.
+	Live Server for real-time browser refresh.
+o	Install extensions from the Extensions view (Ctrl+Shift+X).
+User Interface Overview
+Main Components:
+1.	Activity Bar:
+o	Located on the left side, provides access to different views (Explorer, Search, Source Control, etc.).
+2.	Side Bar:
+o	Displays the content of the selected view from the Activity Bar.
+3.	Editor Group:
+o	Main area where you edit files. Supports multiple tabs and split views.
+4.	Status Bar:
+o	Bottom bar showing information about the current project, file, and various statuses (e.g., line endings, encoding).
+Command Palette
+Accessing and Using Command Palette:
+•	Press Ctrl+Shift+P or F1 to open.
+•	Allows quick access to various commands.
+•	Common tasks:
+o	Open files: Open File...
+o	Toggle terminal: View: Toggle Integrated Terminal.
+o	Change settings: Preferences: Open Settings.
+Extensions in VS Code
+Role and Management of Extensions:
+•	Role: Enhance functionality (e.g., language support, debugging tools).
+•	Finding and Installing:
+o	Use the Extensions view (Ctrl+Shift+X).
+o	Search for desired extensions and click Install.
+•	Managing:
+o	Disable or uninstall extensions via the Extensions view.
+Essential Extensions for Web Development:
+•	Prettier, ESLint, Live Server, Bracket Pair Colorizer.
+Integrated Terminal
+Opening and Using the Integrated Terminal:
+•	Open via View > Terminal or Ctrl+ ``.
+•	Allows running command-line tasks within VS Code.
+•	Advantages:
+o	Integrated with the editor.
+o	Easily switch between terminal and code.
+File and Folder Management
+Creating, Opening, and Managing:
+•	Create/Open Files/Folders:
+o	Use the Explorer view or File > Open Folder.
+•	Navigation:
+o	Use Ctrl+P to quickly open files.
+o	Use breadcrumbs (top bar) for directory navigation.
+Settings and Preferences
+Customizing Settings:
+•	Access via File > Preferences > Settings or Ctrl+,.
+•	Examples:
+o	Theme: Search Color Theme in settings.
+o	Font Size: Search Font Size and adjust.
+o	Keybindings: Go to File > Preferences > Keyboard Shortcuts.
+Debugging in VS Code
+Setting Up and Debugging:
+1.	Setup:
+o	Go to Run > Add Configuration.
+o	Choose appropriate environment (e.g., Node.js).
+2.	Start Debugging:
+o	Use Run > Start Debugging or F5.
+3.	Key Features:
+o	Breakpoints, watch variables, call stack inspection.
+Using Source Control
+Integrating Git with VS Code:
+1.	Initialize Repository:
+o	Open the Source Control view (Ctrl+Shift+G).
+o	Click Initialize Repository.
+2.	Making Commits:
+o	Stage changes and write commit messages in the Source Control view.
+3.	Pushing to GitHub:
+o	Use the Source Control view or terminal commands (git push).
+References:
+•	Visual Studio Code Documentation
 
-4. Command Palette:
-   - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
-
-5. Extensions in VS Code:
-   - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
-
-6. Integrated Terminal:
-   - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
-
-7. File and Folder Management:
-   - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
-
-8. Settings and Preferences:
-   - Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
-
-9. Debugging in VS Code:
-   - Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
-
-10. Using Source Control:
-    - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
-
- Submission Guidelines:
-- Your answers should be well-structured, concise, and to the point.
-- Provide screenshots or step-by-step instructions where applicable.
-- Cite any references or sources you use in your answers.
-- Submit your completed assignment by 1st July 
 
